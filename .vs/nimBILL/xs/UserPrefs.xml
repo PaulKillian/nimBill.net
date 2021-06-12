@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9881A592-8D08-4BA3-9E4D-9B8D437C1EBF}|Default">
+  <MonoDevelop.Ide.ItemProperties.nimBILL PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="nimBILL" expanded="True">
+            <Node name="nimBILL" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="active-directory-b2c-dotnet-webapp-and-webapi" expanded="True">
+                <Node name="TaskService" expanded="True">
+                  <Node name="Properties" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

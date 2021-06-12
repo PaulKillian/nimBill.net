@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/zeal/.dotnet/store/|arch|/|tfm|",
+      "/Users/zeal/.nuget/packages"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/SIHl+8PeYWUWchRIbveRUPADKNaO6HnpVWZIpw1EeSYuQoRIWkrWFhhalc1+ZqD5z0NvGQzpSi+Ql0N/hzvkw==",
+  "success": true,
+  "projectFilePath": "/Users/zeal/nimBILL/nimBILL.csproj",
+  "expectedPackageFiles": [
+    "/Users/zeal/.nuget/packages/npgsql/6.0.0-preview3/npgsql.6.0.0-preview3.nupkg.sha512",
+    "/Users/zeal/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

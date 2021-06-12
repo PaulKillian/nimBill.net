@@ -1,0 +1,15 @@
+/Users/zeal/nimBILL/bin/Debug/net5.0/nimBILL.deps.json
+/Users/zeal/nimBILL/bin/Debug/net5.0/nimBILL.runtimeconfig.json
+/Users/zeal/nimBILL/bin/Debug/net5.0/nimBILL.runtimeconfig.dev.json
+/Users/zeal/nimBILL/bin/Debug/net5.0/nimBILL.dll
+/Users/zeal/nimBILL/bin/Debug/net5.0/ref/nimBILL.dll
+/Users/zeal/nimBILL/bin/Debug/net5.0/nimBILL.pdb
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.csprojAssemblyReference.cache
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.AssemblyInfoInputs.cache
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.AssemblyInfo.cs
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.csproj.CoreCompileInputs.cache
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.dll
+/Users/zeal/nimBILL/obj/Debug/net5.0/ref/nimBILL.dll
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.pdb
+/Users/zeal/nimBILL/obj/Debug/net5.0/nimBILL.genruntimeconfig.cache
